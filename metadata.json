@@ -1,0 +1,6 @@
+{
+  "name": "Neon Piano Magic: Judas & Rhythm Legends",
+  "description": "Ultra-responsive Android-optimized piano tiles rhythm game with custom stage lighting, dynamic haptic feedback, and Lady Gaga's Judas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
